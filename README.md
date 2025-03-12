@@ -5,13 +5,13 @@
 - <b>Data Science Project 1</b>
   - [Project 1](https://github.com/Neel-Raibole/Link1)
 - <b>Data Science Project 2</b>
-  - [Project 1](https://github.com/Neel-Raibole/Link1)
+  - [Project 2](https://github.com/Neel-Raibole/Link1)
 - <b>Data Science Project 3</b>
-  - [Project 1](https://github.com/Neel-Raibole/Link1)
+  - [Project 3](https://github.com/Neel-Raibole/Link1)
 - <b>Data Science Project 4</b>
-  - [Project 1](https://github.com/Neel-Raibole/Link1)
+  - [Project 4](https://github.com/Neel-Raibole/Link1)
 - <b>Data Science Project 5</b>
-  - [Project 1](https://github.com/Neel-Raibole/Link1)
+  - [Project 5](https://github.com/Neel-Raibole/Link1)
 
 <h2>📺 Popular YouTube Videos</h2>
 
