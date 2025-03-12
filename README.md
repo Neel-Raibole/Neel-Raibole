@@ -20,8 +20,8 @@
     - [Project 5](https://github.com/Neel-Raibole/Link1)
 
 <h2> 🤳 Connect with me:</h2>
-[<img align="left" alt="Neel Raibole | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[linkedin]: https://www.linkedin.com/in/neelraibole/
+[<img align="left" alt="NeelRaibole | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[linkedin]: https://www.linkedin.com/in/neelraibole
 
 
 <h2>📺 Popular YouTube Videos</h2>
