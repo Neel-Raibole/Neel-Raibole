@@ -3,14 +3,19 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Data Science Project 1</b>
+- <b>Overview: </b>This is my project Overview
   - [Project 1](https://github.com/Neel-Raibole/Link1)
 - <b>Data Science Project 2</b>
+- <b>Overview: </b>This is my project Overview
   - [Project 2](https://github.com/Neel-Raibole/Link1)
 - <b>Data Science Project 3</b>
+- <b>Overview: </b>This is my project Overview
   - [Project 3](https://github.com/Neel-Raibole/Link1)
 - <b>Data Science Project 4</b>
+- <b>Overview: </b>This is my project Overview
   - [Project 4](https://github.com/Neel-Raibole/Link1)
 - <b>Data Science Project 5</b>
+- <b>Overview: </b>This is my project Overview
   - [Project 5](https://github.com/Neel-Raibole/Link1)
 
 <h2>📺 Popular YouTube Videos</h2>
