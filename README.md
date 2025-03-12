@@ -1,22 +1,17 @@
-<h1>Hi, I'm Neel Raibole! <br/><a href = "https://www.linkedin.com/in/neelraibole/">Data Enthusiast</a></h1>
+<h1>Hi, I'm Neel Raibole! <br/><a href = "https://www.linkedin.com/in/neelraibole/">Data Scienctist</a></h1>
 <h4>Experienced Senior Data Analyst with 4 years of background in turning data into actionable insights. Now transitioning into Data Science, I blend my solid foundation in SQL, Tableau, Power BI, Excel, and Python with fresh training in Artificial Intelligence and Machine Learning. Passionate about building advanced machine learning and deep learning models, I focus on transforming complex data into strategic solutions. Explore my projects here to see how I leverage analytics expertise and cutting-edge data science techniques to drive business impact. </h4>
 <h2>👨‍💻 Data Science Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Data Science Project 1</b>
+  - [Project 1](https://github.com/Neel-Raibole/Link1)
+- <b>Data Science Project 2</b>
+  - [Project 1](https://github.com/Neel-Raibole/Link1)
+- <b>Data Science Project 3</b>
+  - [Project 1](https://github.com/Neel-Raibole/Link1)
+- <b>Data Science Project 4</b>
+  - [Project 1](https://github.com/Neel-Raibole/Link1)
+- <b>Data Science Project 5</b>
+  - [Project 1](https://github.com/Neel-Raibole/Link1)
 
 <h2>📺 Popular YouTube Videos</h2>
 
