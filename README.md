@@ -1,4 +1,4 @@
-<h1>Hi, I'm Neel Raibole! <br/><a href = "https://www.linkedin.com/in/neelraibole/">Data Scienctist</a></h1>
+<h1>Hi, I'm Neel Raibole! <br/><a href = "https://www.linkedin.com/in/neelraibole/">Data Scientist</a></h1>
 
 <h4>Experienced Senior Data Analyst with 4 years of background in turning data into actionable insights. Now transitioning into Data Science, I blend my solid foundation in SQL, Tableau, Power BI, Excel, and Python with fresh training in Artificial Intelligence and Machine Learning. Passionate about building advanced machine learning and deep learning models, I focus on transforming complex data into strategic solutions. Explore my projects here to see how I leverage analytics expertise and cutting-edge data science techniques to drive business impact. </h4>
 <h2>👨‍💻 Data Science Projects:</h2>
