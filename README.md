@@ -3,21 +3,29 @@
 <h4>Experienced Senior Data Analyst with 4 years of background in turning data into actionable insights. Now transitioning into Data Science, I blend my solid foundation in SQL, Tableau, Power BI, Excel, and Python with fresh training in Artificial Intelligence and Machine Learning. Passionate about building advanced machine learning and deep learning models, I focus on transforming complex data into strategic solutions. Explore my projects here to see how I leverage analytics expertise and cutting-edge data science techniques to drive business impact. </h4>
 <h2>👨‍💻 Data Science Projects:</h2>
 
-- <b>Data Science Project 1</b>
+- <b>PlotTwist</b>
+  - [PlotTwist](https://github.com/Neel-Raibole/DataZymes)
   - <b>Overview: </b>This is my project Overview
-    - [Project 1](https://github.com/Neel-Raibole/Link1)
-- <b>Data Science Project 2</b>
+- <b>Extreme Text Summarization Using Prophetnet and LoRA</b>
+  - [Extreme Text Summarization Using Prophetnet and LoRA](https://github.com/Neel-Raibole/Extreme-Text-Summarization-using-Prophetnet-and-LoRA)
   - <b>Overview: </b>This is my project Overview
-    - [Project 2](https://github.com/Neel-Raibole/Link1)
-- <b>Data Science Project 3</b>
+- <b>Sentiment Analysis for YELP Dataset using Bi-LSTM & DistilBERT</b>
+  - [Sentiment Analysis for YELP Dataset using Bi-LSTM & DistilBERT](https://github.com/Neel-Raibole/Sentiment-Analysis-using-BiLSTM-and-Transformer)
   - <b>Overview: </b>This is my project Overview
-    - [Project 3](https://github.com/Neel-Raibole/Link1)
-- <b>Data Science Project 4</b>
-  - <b>Overview: </b>This is my project Overview
-    - [Project 4](https://github.com/Neel-Raibole/Link1)
-- <b>Data Science Project 5</b>
-  - <b>Overview: </b>This is my project Overview
-    - [Project 5](https://github.com/Neel-Raibole/Link1)
+
+---
+
+<h2>👨‍💻 Data Analytics Projects:</h2>
+
+- <b>Data Science Project 1</b> <br />
+  - [Supply Chain Dashboard](https://github.com/Neel-Raibole/Supply-Chain-Dashboard) <br />
+  - <b>Overview: </b>An end-to-end, interactive dashboard that unifies transactional order data and monthly inventory snapshots to deliver real-time visibility into sales performance, customer behavior, and fulfillment efficiency. With a 6-month rolling analysis window, it highlights geographic concentration, schedule adherence, and forecast accuracy, empowering Supply Chain, Sales, and Operations leaders to preemptively address stock imbalances, streamline logistics, and align purchasing with true demand.
+
+- <b>Sales Analysis Dashboard</b> <br />
+   - [Sales Analysis Dashboard](https://github.com/Neel-Raibole/Sales-Analysis-Dashboard) <br />
+  - <b>Overview: </b>A high-impact, star-schema–driven dashboard designed for TechWorks USA to track Revenue, Profit, Orders, Returns, and Customer Activity across the U.S. over a rolling 6-month period. It surfaces coastal market dependencies, seasonal sales volatility, product-line profitability gaps, and return hotspots—providing Sales, Product, Marketing, and Acquisition teams with the insights needed to diversify markets, optimize pricing/promotions, and refine customer acquisition strategies.
+
+---
 
 <h2> 🤳 Connect with me:</h2>
 
