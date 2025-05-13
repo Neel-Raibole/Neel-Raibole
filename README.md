@@ -3,11 +3,11 @@
 <h4>Experienced Senior Data Analyst with 4 years of background in turning data into actionable insights. Now transitioning into Data Science, I blend my solid foundation in SQL, Tableau, Power BI, Excel, and Python with fresh training in Artificial Intelligence and Machine Learning. Passionate about building advanced machine learning and deep learning models, I focus on transforming complex data into strategic solutions. Explore my projects here to see how I leverage analytics expertise and cutting-edge data science techniques to drive business impact. </h4>
 <h2>👨‍💻 Data Science Projects:</h2>
 
-- <b>PlotTwist</b>
-  - [PlotTwist](https://github.com/Neel-Raibole/DataZymes)
+- <b>PlotTwist(Automated Chart Interpretation and Summarization Pipeline)</b>
+  - [PlotTwist](https://github.com/Neel-Raibole/PlotTwist)
   - <b>Overview: </b>This is my project Overview
 - <b>Extreme Text Summarization Using Prophetnet and LoRA</b>
-  - [Extreme Text Summarization Using Prophetnet and LoRA](https://github.com/Neel-Raibole/Extreme-Text-Summarization-using-Prophetnet-and-LoRA)
+  - [Extreme Text Summarization Using Prophetnet and LoRA](https://github.com/Neel-Raibole/Abstractive-Text-Summarization-using-ProphetNet-with-LoRA-Fine-Tuning)
   - <b>Overview: </b>This is my project Overview
 - <b>Sentiment Analysis for YELP Dataset using Bi-LSTM & DistilBERT</b>
   - [Sentiment Analysis for YELP Dataset using Bi-LSTM & DistilBERT](https://github.com/Neel-Raibole/Sentiment-Analysis-using-BiLSTM-and-Transformer)
