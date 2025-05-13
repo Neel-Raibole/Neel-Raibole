@@ -6,8 +6,8 @@
 - <b>PlotTwist(Automated Chart Interpretation and Summarization Pipeline)</b>
   - [PlotTwist](https://github.com/Neel-Raibole/PlotTwist)
   - <b>Overview: </b>This is my project Overview
-- <b>Extreme Text Summarization Using Prophetnet and LoRA</b>
-  - [Extreme Text Summarization Using Prophetnet and LoRA](https://github.com/Neel-Raibole/Abstractive-Text-Summarization-using-ProphetNet-with-LoRA-Fine-Tuning)
+- <b>Abstractive Text Summarization using ProphetNet with LoRA Fine-Tuning</b>
+  - [Abstractive Text Summarization using ProphetNet with LoRA Fine-Tuning](https://github.com/Neel-Raibole/Abstractive-Text-Summarization-using-ProphetNet-with-LoRA-Fine-Tuning)
   - <b>Overview: </b>This is my project Overview
 - <b>Sentiment Analysis for YELP Dataset using Bi-LSTM & DistilBERT</b>
   - [Sentiment Analysis for YELP Dataset using Bi-LSTM & DistilBERT](https://github.com/Neel-Raibole/Sentiment-Analysis-using-BiLSTM-and-Transformer)
